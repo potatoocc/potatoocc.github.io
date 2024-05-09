@@ -3,7 +3,7 @@
 Brief description of your project goes here.
 
 ## Table of Contents
-- [Link to HTML](▲Glacial◎Storm▼ - 【Management】 - 🌐╏management [1145821434023772242].html)
+- [Link to HTML](management.html)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
