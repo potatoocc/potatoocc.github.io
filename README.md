@@ -1,6 +1,8 @@
 ## Backup
 - [Management](management.html)
 - Other Games
-[Warframe](warframe.html)
+#[Warframe](warframe.html)
+#[Genshin Impact](genshinimpact.html)
+#[Palworld](palworld.html)
 
 
